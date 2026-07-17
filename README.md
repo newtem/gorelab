@@ -2,15 +2,16 @@
 
 > [!WARNING]
 > **Content Warning:**
-> This game contains intense gore, graphic violence, body horror elements, and disturbing scenes.
+> This software contains intense gore, graphic violence, body horror elements, and disturbing scenes.
 
 ### Features:
+- Built with C# / .NET 7.0 using Windows Forms (WinForms)
 - Dynamic limb interaction
 - Bleeding particles
 - Customizable body positioning
 - Real time gore effects
-- Experimental sandbox gameplay
-- Built with C# / .NET 7.0 using Windows Forms (WinForms).
+- Experimental sandbox support
+- This project is still under active development and is continuously being updated.
 
 ### Asset Requirements
 
