@@ -38,3 +38,7 @@ Place the following folders in the same directory as the executable:
 If the required assets are missing, 
 the GoreLab will fall back to a simple block character rendered in C#.
 These assets are required for the intended experience.
+
+### Screenshots
+
+<img src="screenshots/GoreLab_Preview.png" width="600">
