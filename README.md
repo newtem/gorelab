@@ -35,6 +35,9 @@ Place the following folders in the same directory as the executable:
   - `1.png`
   - `2.png`
   - `3.png`
+  - `bruise1.png`
+  - `bruise2.png`
+  - `bruise3.png`
 
 If the required assets are missing, 
 the GoreLab will fall back to a simple block character rendered in C#.
